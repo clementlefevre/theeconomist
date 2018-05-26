@@ -1,0 +1,7 @@
+
+SHELL=/bin/bash
+
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/ga$
+
+15 19 * * THU sudo su pi -c "/home/pi/news/calibre_economist.sh"
+
